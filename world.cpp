@@ -84,8 +84,7 @@ int main()
   int T;
   cin>>T;
   while(T--){
-      // this is the first time i made a commit in the github repository ever.
-  	  // dont laugh at this.
+      // the competetive programming code template.
   }
   return 0;
 }
